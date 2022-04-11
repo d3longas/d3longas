@@ -48,6 +48,7 @@
 <hr>
 
 ### My Github stats
+<div>
   <p align="center">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3longas&theme=monokai" alt="d3longas     Contribution Chart" />
   </p>
@@ -58,3 +59,4 @@
   <p align="center">
   ![Snake animation](https://github.com/d3longas/d3longas/blob/output/github-contribution-grid-snake.svg)
   </p>
+</div>
