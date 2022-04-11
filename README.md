@@ -59,5 +59,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3longas&theme=monokai&show_icons=true&include_all_commits=true& hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3longas&theme=monokai&layout=compact&hide_border=true" />
   </p>
-  ![Snake animation](https://github.com/d3longas/d3longas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/d3longas/d3longas/blob/output/github-contribution-grid-snake.gif)
 </div>
