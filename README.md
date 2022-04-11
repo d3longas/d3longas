@@ -52,7 +52,7 @@
 <div align="center">
   
   <p>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3longas&theme=monokai" alt="d3longas     Contribution Chart" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3longas&theme=dracula" alt="d3longas     Contribution Chart" />
   </p>
   
   <p>
