@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, Welcome to my profile!</h1>
 
-<h3 align="center">My name is Arthur, and I'm from São Paulo, Brazil</h3>
+<h3 align="center">My name is Arthur, I'm from São Paulo, Brazil</h3>
 <hr>
 
 <ul>
