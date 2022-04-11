@@ -4,7 +4,7 @@
 <hr>
 
 <ul>
-  <li> 📑 I'm currently graduating in Análise e Desenvolvimento de Sistemas</li>
+  <li> 📑 I'm currently graduating in Análise e Desenvolvimento de Sistemas at IFSP</li>
   <li> 🌱 I'm currently learning <strong>Bootstrap</strong> </li>
   <li> ⚡ I love gaming, music and coding</li>
 </ul>
