@@ -48,11 +48,14 @@
 <hr>
 
 ### My Github stats
-<div>
-  <p align="center">
+## 
+<div align="center">
+  
+  <p>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3longas&theme=monokai" alt="d3longas     Contribution Chart" />
   </p>
-  <p align="center">
+  
+  <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3longas&theme=monokai&show_icons=true&include_all_commits=true& hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3longas&theme=monokai&layout=compact&hide_border=true" />
   </p>
