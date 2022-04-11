@@ -56,9 +56,9 @@
   </p>
   
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3longas&theme=monokai&show_icons=true&include_all_commits=true& hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3longas&theme=monokai&layout=compact&hide_border=true" />
-  </p>]
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3longas&theme=dracula&show_icons=true&include_all_commits=true& hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3longas&theme=dracula&layout=compact&hide_border=true" />
+  </p>
   <img src="https://raw.githubusercontent.com/d3longas/d3longas/output/github-contribution-grid-snake.svg">
 
 </div>
