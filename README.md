@@ -69,7 +69,6 @@
 <hr>
 
 ### My Github stats
-## 
 <div align="center">
   
   <p>
