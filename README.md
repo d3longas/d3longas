@@ -5,7 +5,6 @@
 
 <ul>
   <li> 📑 I'm currently graduating in Análise e Desenvolvimento de Sistemas at IFSP</li>
-  <li> 🌱 I'm currently learning <strong>Bootstrap</strong> and <strong>MongoDB</strong> </li>
   <li> ⚡ I love gaming, music and coding</li>
 </ul>
 
@@ -44,11 +43,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
   </a>
   
-### Rurrently Learning
+### Currently Learning
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
   </a>
-
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
+  </a>
 </div>
 
 <hr>
