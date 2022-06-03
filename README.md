@@ -2,10 +2,10 @@
 
 <h3 align="center">My name is Arthur, I'm from São Paulo, Brazil</h3>
 
-<ul>
-  <li> 📑 I'm currently graduating in Análise e Desenvolvimento de Sistemas at IFSP</li>
-  <li> ⚡ I love gaming, music and coding</li>
-</ul>
+
+  - 📑 I'm currently graduating in Análise e Desenvolvimento de Sistemas at IFSP</li>
+  - ⚡ I love gaming, music and coding</li>
+
 
 <div> 
 
