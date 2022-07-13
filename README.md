@@ -41,11 +41,12 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
   </a>
-  
-### Currently Learning
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
   </a>
+  
+### Currently Learning
+  
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
   </a>
